@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1556516890 source:/home/manhdo/CodeBlock/Project/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<iostream>
+	<algorithm>
+	<string.h>
+	<complex.h>
+	<math.h>
+
